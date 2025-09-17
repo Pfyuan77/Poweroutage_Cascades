@@ -1,0 +1,13 @@
+# 忽略所有 data 和 results 文件夹
+data/
+results/
+*/data/
+*/results/
+
+# 忽略所有常见数据文件
+*.parquet
+*.csv
+*.nc
+*.jpg
+*.jpeg
+*.geojson
