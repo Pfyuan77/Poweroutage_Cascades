@@ -3,6 +3,7 @@ data/
 results/
 */data/
 */results/
+env/
 
 # 忽略所有常见数据文件
 *.parquet
